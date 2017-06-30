@@ -1,0 +1,69 @@
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\Jesse McCsharp.exe.config
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\obj\Debug\Jesse McCsharp.csprojResolveAssemblyReference.cache
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\Jesse McCsharp.exe
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\Jesse McCsharp.pdb
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\Discord.Net.Commands.dll
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\Discord.Net.dll
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\Newtonsoft.Json.dll
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.Concurrent.dll
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.dll
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\RestSharp.dll
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\WebSocket4Net.dll
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\Newtonsoft.Json.xml
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.xml
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.Concurrent.xml
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\bin\Debug\RestSharp.xml
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\obj\Debug\Jesse McCsharp.exe
+D:\WORK\Visual Studio\Jesse McCsharp\Jesse McCsharp\obj\Debug\Jesse McCsharp.pdb
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Jesse McCsharp.exe.config
+G:\Jesse McCsharp\Jesse McCsharp\obj\Debug\Jesse McCsharp.exe
+G:\Jesse McCsharp\Jesse McCsharp\obj\Debug\Jesse McCsharp.pdb
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Jesse McCsharp.exe
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Jesse McCsharp.pdb
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Discord.Net.Commands.dll
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Discord.Net.dll
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Newtonsoft.Json.dll
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.Concurrent.dll
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.dll
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\RestSharp.dll
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\WebSocket4Net.dll
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Newtonsoft.Json.xml
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.xml
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.Concurrent.xml
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\RestSharp.xml
+G:\Jesse McCsharp\Jesse McCsharp\obj\Debug\Jesse McCsharp.csprojResolveAssemblyReference.cache
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Jesse McCsharp.exe.config
+F:\WORK\Jesse McCsharp\Jesse McCsharp\obj\Debug\Jesse McCsharp.exe
+F:\WORK\Jesse McCsharp\Jesse McCsharp\obj\Debug\Jesse McCsharp.pdb
+F:\WORK\Jesse McCsharp\Jesse McCsharp\obj\Debug\Jesse McCsharp.csprojResolveAssemblyReference.cache
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Jesse McCsharp.exe
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Jesse McCsharp.pdb
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Discord.Net.Commands.dll
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Discord.Net.dll
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Newtonsoft.Json.dll
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.Concurrent.dll
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.dll
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\RestSharp.dll
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\WebSocket4Net.dll
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Newtonsoft.Json.xml
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.xml
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.Concurrent.xml
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\RestSharp.xml
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Microsoft.Threading.Tasks.xml
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+F:\WORK\Jesse McCsharp\Jesse McCsharp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Microsoft.Threading.Tasks.dll
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Microsoft.Threading.Tasks.xml
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+G:\Jesse McCsharp\Jesse McCsharp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
